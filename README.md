@@ -1,2 +1,0 @@
-# Football_test_task
-Football_test_task
